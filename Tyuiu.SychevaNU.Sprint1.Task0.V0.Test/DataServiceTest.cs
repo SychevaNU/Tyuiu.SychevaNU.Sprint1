@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.SychevaNU.Sprint1.Task0.V0.Lib;
+using Tyuiu.SychevaNU.Sprint1.Task0.V9.Lib;
 
-namespace Tyuiu.SychevaNU.Sprint1.Task0.V0.Test
+namespace Tyuiu.SychevaNU.Sprint1.Task0.V9.Test
 {
     [TestClass]
     public class DataServiceTest
